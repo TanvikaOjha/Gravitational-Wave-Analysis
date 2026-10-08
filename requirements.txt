@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+h5py
+scikit-learn
+torch
+torchvision
+pycbc
+gwpy
+astropy
+jupyter
+ipykernel

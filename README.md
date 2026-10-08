@@ -1,6 +1,6 @@
 # 🌌 Gravitational Wave Analysis
 
-### AI-Powered Gravitational-Wave Detection from LIGO Data
+### Gravitational-Wave Detection from LIGO Data
 
 An end-to-end machine-learning pipeline for detecting simulated **binary black-hole (BBH) gravitational-wave signals** buried in real detector noise. The project combines gravitational-wave data generation, signal processing, time-frequency analysis, and deep learning to distinguish between **GW signals and noise-only segments**.
 
